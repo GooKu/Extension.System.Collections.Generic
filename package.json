@@ -1,6 +1,6 @@
 {
   "name": "com.goo.system-collections-generic.extension",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Goo Extension(System.Collections.Generic)",
   "description": "Extension of System.Collections.Generic",
   "unity": "2020.3",
